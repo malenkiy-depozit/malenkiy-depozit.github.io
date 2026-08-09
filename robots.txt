@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: malenkiy-depozit.github.io
+Sitemap: https://malenkiy-depozit.github.io/sitemap.xml
